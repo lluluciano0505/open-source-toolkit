@@ -1,0 +1,16 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;Unknown_datum_based_upon_the_Krassowsky_1940_ellipsoid_Transverse_Mercator&quot;,GEOGCS[&quot;GCS_Unknown_datum_based_upon_the_Krassowsky_1940_ellipsoid&quot;,DATUM[&quot;Not_specified_based_on_Krassowsky_1940_ellipsoid&quot;,SPHEROID[&quot;Krasovsky_1940&quot;,6378245.0,298.3]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Transverse_Mercator&quot;],PARAMETER[&quot;false_easting&quot;,500000.0],PARAMETER[&quot;false_northing&quot;,0.0],PARAMETER[&quot;central_meridian&quot;,111.0],PARAMETER[&quot;scale_factor&quot;,1.0],PARAMETER[&quot;latitude_of_origin&quot;,0.0],UNIT[&quot;Meters&quot;,1.0]]</SRS>
+  <PAMRasterBand band="1">
+    <Description>pollution</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>1.00001585483551</HistMin>
+        <HistMax>9.999612808227539</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>44|45|42|46|42|46|41|51|48|48|48|52|47|56|50|50|58|54|55|57|59|55|59|60|63|61|66|65|105|122|121|137|119|145|125|150|135|152|144|149|157|157|156|159|170|173|156|174|171|157|181|170|164|185|181|185|248|388|393|403|418|428|446|455|493|519|637|560|543|524|546|560|552|537|553|560|559|583|588|592|613|630|631|660|659|695|699|685|719|730|761|746|818|832|899|1002|978|913|899|860|848|863|847|859|884|853|876|944|980|1084|1298|1844|2101|1968|2303|2797|3169|2118|1669|1242|1061|1043|1021|1033|982|1021|1006|1038|1063|1106|1103|1077|1105|1083|1148|1188|1176|1228|1192|1246|1260|1383|1626|1846|1812|1584|1505|1495|1515|1593|1520|1446|1408|1457|1462|1324|1238|1192|1139|1115|1059|1070|1093|1104|961|960|917|869|843|820|812|773|766|778|750|732|716|763|717|759|764|780|880|764|696|656|621|593|563|544|525|507|490|476|461|443|431|444|246|166|165|157|157|173|145|151|144|140|156|126|146|134|135|135|136|127|124|144|106|128|122|120|123|118|128|117|102|71|70|80|77|77|78|79|72|73|68|72|69|66|65|62|59|70|54|61|57|50|59|54|53|51|52|52|50|0</HistCounts>
+      </HistItem>
+    </Histograms>
+  </PAMRasterBand>
+</PAMDataset>

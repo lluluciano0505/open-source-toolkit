@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150114</CreaDate><CreaTime>13012400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\desktop10.0\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20150114" Time="130124">RasterCalculator "Int("dem" / 5) * 5" E:\R\5-I\GISerClub\数据\ex25-3\dem1</Process></lineage></DataProperties></Esri></metadata>

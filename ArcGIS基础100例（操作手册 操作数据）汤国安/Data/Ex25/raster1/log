@@ -1,0 +1,2 @@
+20141224 926   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex22-1\raster2 = SELECTMASK(F:\工作\ArcGIS相关\GISerClub\数据\ex22-1\raster, C:\Users\Administrator\AppData\Local\Temp\t_t646)
+20141224 926   0     0     0Administrator F:\工作\ARCGIS~1\GISERC~1\数据\ex22-2\asc.TXT = GRIDASCII ( F:\工作\ArcGIS相关\GISerClub\数据\ex22-1\raster2 )

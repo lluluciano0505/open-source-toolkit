@@ -1,0 +1,5 @@
+201409231548   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex10-3\dem1 = SELECTMASK(F:\工作\ArcGIS相关\GISerClub\数据\ex10-3\dem, C:\Users\Administrator\AppData\Local\Temp\t_t_t2)
+201409231600   0     0     0Administrator F:\工作\ARCGIS~1\GISERC~1\数据\ex10-3\asc.TXT = GRIDASCII ( F:\工作\ArcGIS相关\GISerClub\数据\ex10-3\dem )
+201509142058   0     0     0LM E:\HiGIS\Ex55\asc.txt.ASC = GRIDASCII ( E:\HiGIS\Ex55\dem )
+201509142059   0     0     0LM E:\HiGIS\Ex55\asc.TXT = GRIDASCII ( E:\HiGIS\Ex55\dem )
+201509142100   0     0     0LM E:\HiGIS\Ex55\asc.TXT = GRIDASCII ( E:\HiGIS\Ex55\dem )

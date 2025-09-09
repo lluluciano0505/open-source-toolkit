@@ -1,0 +1,5 @@
+201409152135   0     1     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex8-1\dem1 = FOCALMEAN(F:\工作\ArcGIS相关\GISerClub\数据\ex8-1\dem,  Rectangle, 3, 3, DATA)
+201501211444   0     0     0Administrator E:\GISerClub\Data\ex26-2\fill = FILLSINK(E:\GISerClub\Data\ex26-2\dem,  #)
+201501211450   0     0     0Administrator E:\GISerClub\Data\ex26-2\dir = FLOWDIRECTION(E:\GISerClub\Data\ex26-2\fill,  #, NORMAL)
+201509162033   0     0     0Administrator E:\HiGIS\Ex98\fill = FILLSINK(E:\HiGIS\Ex98\dem,  #)
+201509162036   0     0     0Administrator E:\HiGIS\Ex98\dir = FLOWDIRECTION(E:\HiGIS\Ex98\fill,  #, NORMAL)

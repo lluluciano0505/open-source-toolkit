@@ -1,0 +1,2 @@
+201409152135   0     1     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex8-1\dem1 = FOCALMEAN(F:\工作\ArcGIS相关\GISerClub\数据\ex8-1\dem,  Rectangle, 3, 3, DATA)
+201410291035   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex15-1\de = SELECTMASK(F:\工作\ArcGIS相关\GISerClub\数据\ex15-1\dem, C:\Users\Administrator\AppData\Local\Temp\t_t5614)

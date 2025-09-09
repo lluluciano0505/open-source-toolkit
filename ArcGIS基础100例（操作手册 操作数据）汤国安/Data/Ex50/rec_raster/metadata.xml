@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150913</CreaDate><CreaTime>21224000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20150913" Time="212240">Reclassify int_raster VALUE "16 1;17 1;18 2;19 2" E:\HiGIS\Ex50\rec_raster NODATA</Process></lineage></DataProperties></Esri></metadata>

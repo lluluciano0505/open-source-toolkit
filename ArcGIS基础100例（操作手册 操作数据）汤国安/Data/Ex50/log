@@ -1,0 +1,10 @@
+201409231407   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\raster = SELECTBOX(F:\工作\ArcGIS相关\GISerClub\数据\基础地理数据\国家行政区\hillshade_10k,  -33546.508227080107, 3478270.68445371
+201409231421   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\raster1 = SELECTMASK(F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\raster, C:\Users\Administrator\AppData\Local\Temp\t_t_t2)
+201409231459   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\int_raster =  INT (F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\raster)
+201409231504   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\int_raster =  INT (F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\raster)
+201409231513   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\rec_raster = (F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\int_raster)
+201409231519   0     0     0Administrator F:\工作\ARCGIS~1\GISERC~1\数据\ex10-2\region.shp = GRIDSHAPE(F:\工作\ArcGIS相关\GISerClub\数据\ex10-2\rec_raster, NOWEED)
+201509132118   0     0     0LM E:\HiGIS\Ex50\int_raster =  INT (E:\HiGIS\Ex50\raster)
+201509132121   0     0     0LM E:\HiGIS\Ex50\rec_raster = (E:\HiGIS\Ex50\int_raster)
+201509132122   0     0     0LM E:\HiGIS\Ex50\rec_raster = (E:\HiGIS\Ex50\int_raster)
+201509132124   0     0     0LM E:\HiGIS\Ex50\region.shp = GRIDSHAPE(E:\HiGIS\Ex50\rec_raster, NOWEED)

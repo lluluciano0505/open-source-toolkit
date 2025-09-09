@@ -1,0 +1,2 @@
+"<UND>"&""&[value]&""&"</UND>"&vbNewLine& [FID] 
+"[城市名]"+[name]+"\n"+"[城市编号]"+ [OBJECTID] 

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150914</CreaDate><CreaTime>19523300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Idw" Date="20150914" Time="195233">Idw E:\HiGIS\Ex92\pts.shp frequency E:\HiGIS\Ex92\idw 5 2 "VARIABLE 12" #</Process></lineage></DataProperties></Esri></metadata>

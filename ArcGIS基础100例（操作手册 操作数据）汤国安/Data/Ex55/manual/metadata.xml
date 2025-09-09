@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150914</CreaDate><CreaTime>21052700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Conversion Tools.tbx\ASCIIToRaster" Date="20150914" Time="210527">ASCIIToRaster E:\HiGIS\Ex55\manual.txt E:\HiGIS\Ex55\manual INTEGER</Process></lineage></DataProperties></Esri></metadata>

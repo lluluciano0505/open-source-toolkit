@@ -1,0 +1,4 @@
+201502182135   0     0     0Administrator F:\GISerClub\Data\ex29-1\de = SELECTMASK(F:\GISerClub\Data\ex29-1\dem, C:\Users\Administrator\AppData\Local\Temp\t_t_t2)
+201502182203   0     0     0Administrator C:\Users\ADMINI~1\Desktop\asc.txt = GRIDASCII ( F:\GISerClub\Data\ex29-1\dem )
+201502182204   0     1     0Administrator F:\GISERC~1\Data\ex29-1\asc.txt = GRIDASCII ( F:\GISerClub\Data\ex29-1\dem )
+201509102238   0     0     0Mario C:\HiGIS\Ex22\asc.TXT = GRIDASCII ( C:\Users\Mario\Desktop\GISerClubÁ·Ï°Êý¾Ý\ex29-1\dem )

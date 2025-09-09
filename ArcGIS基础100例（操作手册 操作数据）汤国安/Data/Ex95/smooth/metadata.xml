@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20150914</CreaDate><CreaTime>20370500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FocalStatistics" Date="20150914" Time="203705">FocalStatistics raster E:\HiGIS\Ex95\smooth "Rectangle 3 3 CELL" MEAN DATA</Process></lineage></DataProperties></Esri></metadata>

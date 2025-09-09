@@ -1,0 +1,6 @@
+201501132130   0     0     0Administrator E:\R\5-I\GISerClub\数据\ex25-1\basin = BASIN(E:\R\5-I\GISerClub\数据\ex8\dir)
+201501132147   0     0     0Administrator E:\R\5-I\GISerClub\数据\ex25-1\dem = SELECTMASK(E:\R\5-I\GISerClub\数据\ex25-1\dem1, E:\R\5-I\GISerClub\数据\ex25-1\r1)
+201501132147   0     0     0Administrator E:\R\5-I\GISERC~1\数据\ex25-1\area.shp = GRIDSHAPE(E:\R\5-I\GISerClub\数据\ex25-1\r1, NOWEED)
+201501132148   0     0     0Administrator E:\R\5-I\GISerClub\数据\ex25-1\dem2 = SELECTMASK(E:\R\5-I\GISerClub\数据\ex25-1\dem, C:\Users\Administrator\AppData\Local\Temp\t_t8827)
+201501132210   0     0     0Administrator E:\R\5-I\GISERC~1\数据\ex25-1\border.shp = GRIDSHAPE(E:\R\5-I\GISerClub\数据\ex25-1\all, NOWEED)
+201501132215   0     0     0Administrator E:\R\5-I\GISERC~1\数据\ex25-1\border_area.shp = GRIDSHAPE(E:\R\5-I\GISerClub\数据\ex25-1\all, NOWEED)

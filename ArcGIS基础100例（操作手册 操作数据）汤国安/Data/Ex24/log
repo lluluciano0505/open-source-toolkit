@@ -1,0 +1,2 @@
+201501141310   0     0     0Administrator E:\R\5-I\GISERC~1\数据\ex25-3\points.shp = GRIDPOINTSHAPE(E:\R\5-I\GISerClub\数据\ex25-3\dem)
+201501141320   0     0     0Administrator E:\R\5-I\GISERC~1\数据\ex25-3\error.shp = GRIDSHAPE(E:\R\5-I\GISerClub\数据\ex25-3\dem, NOWEED)

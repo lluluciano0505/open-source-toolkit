@@ -1,0 +1,5 @@
+201409152135   0     1     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex8-1\dem1 = FOCALMEAN(F:\工作\ArcGIS相关\GISerClub\数据\ex8-1\dem,  Rectangle, 3, 3, DATA)
+201410131842   0     0     0Administrator F:\工作\ArcGIS相关\GISerClub\数据\ex13-2\ss = (C:\Users\Administrator\Documents\ArcGIS\Default.gdb\FlowAcc_Flow1  >=  ( 500))
+201410131843   0     0     0Administrator F:\工作\ARCGIS~1\GISERC~1\数据\ex13-2\streams.shp = STREAMSHAPE(F:\工作\ArcGIS相关\GISerClub\数据\ex13-2\ss, C:\Users\Administra
+201410131844   0     0     0Administrator F:\工作\ARCGIS~1\GISERC~1\数据\ex13-2\contour.shp = CONTOUR(F:\工作\ArcGIS相关\GISerClub\数据\ex13-2\dem,  INTERVAL, 50.0, 0.0)
+201410131844   0     0     0Administrator F:\工作\ARCGIS~1\GISERC~1\数据\ex13-2\contour.shp = CONTOUR(F:\工作\ArcGIS相关\GISerClub\数据\ex13-2\dem,  INTERVAL, 5.0, 0.0)

@@ -1,0 +1,11 @@
+201409152135   0     1     0Administrator F:\¹¤×÷\ArcGISÏà¹Ø\GISerClub\Êý¾Ý\ex8-1\dem1 = FOCALMEAN(F:\¹¤×÷\ArcGISÏà¹Ø\GISerClub\Êý¾Ý\ex8-1\dem,  Rectangle, 3, 3, DATA)
+201501201850   0     0     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\fill = FILLSINK(E:\GISerClub\Êý¾Ý\ex26-1\dem,  #)
+201501201850   0     0     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\dir = FLOWDIRECTION(E:\GISerClub\Êý¾Ý\ex26-1\fill,  #, NORMAL)
+201501201851   0     0     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\dir = FLOWDIRECTION(E:\GISerClub\Êý¾Ý\ex26-1\fill,  #, NORMAL)
+201501201852   0     0     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\dir = FLOWDIRECTION(E:\GISerClub\Êý¾Ý\ex26-1\fill,  #, NORMAL)
+201501201856   0     0     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\fill = FILLSINK(E:\GISerClub\Êý¾Ý\ex26-1\dem,  #)
+201501201857   0     1     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\dir = FLOWDIRECTION(E:\GISerClub\Êý¾Ý\ex26-1\fill,  #, NORMAL)
+201501201857   0     1     0Administrator E:\GISerClub\Êý¾Ý\ex26-1\acc = FLOWACCUMULATION(E:\GISerClub\Êý¾Ý\ex26-1\dir,  #, INT)
+201501201900   0     1     0Administrator E:\GISERC~1\Êý¾Ý\ex26-1\river.shp = STREAMSHAPE(C:\Users\Administrator\Documents\ArcGIS\Default.gdb\rastercalc, E:\GISerClub\Êý¾
+201501201949   0     0     0Administrator E:\GISERC~1\Êý¾Ý\ex26-1\rivers.shp = STREAMSHAPE(C:\Users\Administrator\Documents\ArcGIS\Default.gdb\rastercalc, E:\GISerClub\Êý
+201509161952   0     0     0Administrator E:\HiGIS\Ex97\str_slope = SLOPE(E:\HiGIS\Ex97\str_dem,  1, DEGREE)

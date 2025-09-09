@@ -1,0 +1,5 @@
+201509141950   0     0     0Monkey_N E:\HiGIS\Ex92\idw = IDW(pts,  'pts.frequency', #, 2.0, SAMPLE, 12, #, 5)
+201509141952   0     0     0Monkey_N E:\HiGIS\Ex92\idw = IDW(E:\HiGIS\Ex92\pts,  'frequency', #, 2.0, SAMPLE, 12, #, 5)
+201509141955   0     0     0Monkey_N E:\HiGIS\Ex92\inside_idw = SELECTMASK(E:\HiGIS\Ex92\idw, C:\Users\Monkey_N\AppData\Local\Temp\arcF8DE\t_t402)
+201509142011   0     1     0Monkey_N E:\HiGIS\Ex92\spline = SPLINE(train,  'value', REGULARIZED, 0.10000000000000001, 12, 7.0994560349732634)
+201509191135   0     0     0Monkey_N E:\HiGIS\Ex92\inside_idw = SELECTMASK(E:\HiGIS\Ex92\idw, C:\Users\Monkey_N\AppData\Local\Temp\arc7BE3\t_t882)
